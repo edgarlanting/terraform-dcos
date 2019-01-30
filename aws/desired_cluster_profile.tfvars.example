@@ -1,8 +1,9 @@
-dcos_version = "1.11.1"
+dcos_version = "1.12.0"
 num_of_masters = "3"
 num_of_private_agents = "3"
 num_of_public_agents = "1"
-#
+# dcos_variant = "ee"
+# dcos_license_key_contents = "<license-key-contents>"
 aws_region = "us-west-2"
 aws_bootstrap_instance_type = "m3.large"
 aws_master_instance_type = "m4.2xlarge"
